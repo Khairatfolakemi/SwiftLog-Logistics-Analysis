@@ -41,7 +41,7 @@ SwiftLog Logistics is a fast-growing Nigerian logistics company managing warehou
 SwiftLog-Logistics-Analysis/
        
 ├── images/         # dashboard screenshots and charts
-├── dashboard/      #Power BI dashboard
+├── dashboard/      # Power BI dashboard
 
 └── README.md
 ```
